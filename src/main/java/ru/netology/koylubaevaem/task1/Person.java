@@ -1,4 +1,4 @@
-package ru.netology.koylubaevaem;
+package ru.netology.koylubaevaem.task1;
 
 public class Person {
 
